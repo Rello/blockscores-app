@@ -1,9 +1,10 @@
 # BlockScores
 
-[![Version](https://img.shields.io/github/release/rello/blockscores-app.svg)](https://github.com/rello/blockscores_app/blob/master/CHANGELOG.md)&#160;[![License: AGPLv3](https://img.shields.io/badge/license-AGPLv3-blue.svg)]
+[![Version](https://img.shields.io/github/release/rello/blockscores-app.svg)](https://github.com/rello/blockscores-app/blob/master/CHANGELOG.md)&#160;
+[![License: AGPLv3](https://img.shields.io/badge/license-AGPLv3-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 
-Frontend for BlockScores secure leaderbords using ethereum smart contracts
+Nextcloud and ownCloud Frontend for BlockScores secure leaderbords using ethereum smart contracts
 
 
 [BlockScores](http://blockscores.com) - securing the world of scores
