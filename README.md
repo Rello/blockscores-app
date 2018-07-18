@@ -1,6 +1,6 @@
 # BlockScores
 
-[![Version](https://img.shields.io/github/release/rello/audioplayer.svg)](https://github.com/rello/blockscores_app/blob/master/CHANGELOG.md)&#160;[![License: AGPLv3](https://img.shields.io/badge/license-AGPLv3-blue.svg)]
+[![Version](https://img.shields.io/github/release/rello/blockscores-app.svg)](https://github.com/rello/blockscores_app/blob/master/CHANGELOG.md)&#160;[![License: AGPLv3](https://img.shields.io/badge/license-AGPLv3-blue.svg)]
 
 
 Frontend for BlockScores secure leaderbords using ethereum smart contracts
