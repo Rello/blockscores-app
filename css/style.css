@@ -1,0 +1,56 @@
+#hello {
+	color: red;
+}
+
+.header {
+	background-size: 300px;
+	background-image: url('../img/header.svg');
+	background-position: left ;
+	background-repeat: no-repeat;
+	padding-left: 330px;
+	margin-top: 10px;
+	margin-left: 10px;	max-width: 100%;
+	z-index: 5;
+	width: 100%;
+	position: fixed;
+    height: 70px;
+}
+
+.headerTitle {
+	font-size: 30px;
+	padding-top: 15px;
+}
+
+.headerDescription{
+	font-size: 15px;
+	padding-top: 8px;
+}
+
+.activeBoardSection,
+.introSection,
+.newPlayerSection {
+	margin: 0;
+	width: 98%;
+	position: relative;
+	top: 110px;
+	float: left;
+	display: inline;
+	height: auto;
+	padding-left: 10px;
+}
+
+.activeBoardSection {
+	display: none;
+}
+
+table th.tableHeader {
+	padding-left: 15px;
+}
+
+.networkMainnet {
+	background-color: rgb(4, 135, 137);
+}
+
+.networkRospen {
+	background-color: rgb(233, 21, 79);
+}

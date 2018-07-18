@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <id>blockscores</id>
+    <name>BlockScores</name>
+    <summary>Frontend for BlockScores secure leaderbords using ethereum smart contracts</summary>
+    <description><![CDATA[BlockScores - securing the world of scores
+        smart contracts for secure leaderboards
+
+        This is a frontend to interact with your BlockScores' leaderboards.
+        The leaderboards are hosted on the ethereum blockchain using smart contracts.
+        This app offers interaction with the blockchain if a browserplugin like MetaMask is available.
+        A readonly access to your leaderboard is provided via the Infura API.
+
+        Compatible with Rospen and Mainnet
+    ]]>
+    </description>
+    <version>0.0.2</version>
+    <licence>agpl</licence>
+    <author mail="nextcloud@blockscores.com" >Marcel Scherello</author>
+    <namespace>BlockScores</namespace>
+    <category>tools</category>
+    <bugs>https://github.com/Rello/BlockScores-App/issues</bugs>
+    <documentation>
+        <user>http://blockscores.com</user>
+        <admin>http://blockscores.com</admin>
+    </documentation>
+    <website>http://blockscores.com</website>
+    <repository type="git">https://github.com/Rello/BlockScores-App.git</repository>
+    <dependencies>
+        <nextcloud min-version="13" max-version="14"/>
+        <owncloud min-version="9.1" max-version="10.1"/>
+    </dependencies>
+    <navigations>
+        <navigation>
+            <name>BlockScores</name>
+            <route>blockscores.page.index</route>
+        </navigation>
+    </navigations>
+</info>

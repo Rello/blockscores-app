@@ -1,0 +1,15 @@
+{
+    "name": "Block Scores",
+    "description": "BlockScores",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "BlockScores"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
