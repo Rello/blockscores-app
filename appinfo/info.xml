@@ -19,7 +19,7 @@
     <licence>agpl</licence>
     <author mail="nextcloud@blockscores.com" >Marcel Scherello</author>
     <namespace>BlockScores</namespace>
-    <category>tools</category>
+    <category>games</category>
     <bugs>https://github.com/Rello/BlockScores-App/issues</bugs>
     <documentation>
         <user>http://blockscores.com</user>
