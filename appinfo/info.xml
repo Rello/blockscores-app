@@ -27,6 +27,7 @@
     </documentation>
     <website>http://blockscores.com</website>
     <repository type="git">https://github.com/Rello/BlockScores-App.git</repository>
+    <screenshot small-thumbnail="https://raw.githubusercontent.com/rello/blockscores-app/master/screenshots/audioplayer_small.png">https://raw.githubusercontent.com/rello/blockscores-app/master/screenshots/blockscores_main.png</screenshot>
     <dependencies>
         <nextcloud min-version="13" max-version="14"/>
         <owncloud min-version="9.1" max-version="10.1"/>
