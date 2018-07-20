@@ -5,15 +5,15 @@
     <name>BlockScores</name>
     <summary>Frontend for BlockScores secure leaderbords using ethereum smart contracts</summary>
     <description><![CDATA[BlockScores - securing the world of scores
-        smart contracts for secure leaderboards
 
-        This is a frontend to interact with your BlockScores' leaderboards.
-        The leaderboards are hosted on the ethereum blockchain using smart contracts.
-        This app offers interaction with the blockchain if a browserplugin like MetaMask is available.
-        A readonly access to your leaderboard is provided via the Infura API.
+smart contracts for secure leaderboards
 
-        Compatible with Rospen and Mainnet
-    ]]>
+This is a frontend to interact with your BlockScores' leaderboards.
+The leaderboards are hosted on the ethereum blockchain using smart contracts.
+This app offers interaction with the blockchain if a browserplugin like MetaMask is available.
+A readonly access to your leaderboard is provided via the Infura API.
+
+Compatible with Rospen and Mainnet]]>
     </description>
     <version>0.0.2</version>
     <licence>agpl</licence>
