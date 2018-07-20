@@ -322,7 +322,7 @@ function displayPlayer(playerData, demo) {
             cell3.innerHTML = '';
         }
         cell3.className = '';
-        cell4.innerHTML = '<input size="2" class="form-control" id="' + playerHash + '_value" value="0">&nbsp;<button class="button-primary small" type="button" id="' + playerHash + '_addButton"><i>+</i></button>';
+        cell4.innerHTML = '<input size="2" class="form-control" id="' + playerHash + '_value" value="0" style="width: 35px;">&nbsp;<button class="button-primary small" type="button" id="' + playerHash + '_addButton"><i>+</i></button>';
         cell4.className = '';
         document.getElementById(playerHash + '_addButton').onclick = function(){addScore(playerHash)};
     }
