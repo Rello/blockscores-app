@@ -65,7 +65,9 @@ class BoardController extends Controller
 
     /**
      * @NoAdminRequired
-     *
+     * @param $boardName
+     * @param $boardHash
+     * @return JSONResponse
      */
     public function addBoard($boardName, $boardHash)
     {
@@ -86,7 +88,8 @@ class BoardController extends Controller
 
     /**
      * @NoAdminRequired
-     *
+     * @param $boardHash
+     * @return JSONResponse
      */
     public function deleteBoard($boardHash)
     {
